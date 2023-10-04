@@ -1,5 +1,7 @@
-title: Webjeda Slides
-description: Webjeda slides is built using revealjs. The idea is to keep all the slideshows in one place as posts. All your presentations can be accessed from one place!
+title: Prompt Engineering for Equinor
+description: Recommendations and best practices to improve and raise awareness about LLM capabilities leveraging ChatGpt
+
+
 
 #baseurl: "/slides" # the subpath of your site, e.g. /blog
 url: "http://webjeda.com" # the base hostname & protocol for your site
