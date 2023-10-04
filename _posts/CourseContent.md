@@ -1,19 +1,24 @@
 ---
-redirect_from: "/"
-title: MD File 1
+title: TrainingDeck
+layout: post
+permalink: /demo/
 ---
 
-
+<section>
 
 # Upskilling Equinor Personnel on Prompt Engineering tools / AI
 
+</section>
 
+<section>
 - **Introduction to AI/ML**: This topic will cover the basics of AI, history, and applications in various industries, including engineering, but specifically for O/G
 - **Data is Centric**: Whether we use a model-based, data driven or hybrid methods, it is important to leverage system data to gain knowledge of the system and make educated choices for product and process improvements. 
 - **Integrated Design**: As much as possible, feedback mechanisms will also help improve technology by integrating observations from the current system into actions and decisions. Both for real time and non real time applications
 - **AI in Engineering**, Design and Development: This topic will cover the applications of AI in design and development, including generative design, simulation, and optimization. Also covering aspects of predictive maintenance, quality control and process optimization
 - **Prompt** **Engineering** for Equinor: How can we leverage AI tools to help with daily on the job tasks? ChatGPT as an example
+</section>
 
+<section>
 # LLM examples and concept
 - Public chat tool : https://chat.openai.com
 - Equinor Internal tool: Chatbot UI - https://main-equinor-chat-prod.radix.equinor.com/
@@ -27,6 +32,9 @@ title: MD File 1
   - **Pattern of the prompt** is important: This sets the context, gives specificity, or direction how the output will be tailored and framed. Generic prompts will give more generic answers that may or may not be scoped enough
   - **The persona pattern**: ability of the model to generate responses consistent with particular persona or style, such as requesting a deep detailed, general info, specific language in industry, etc… 
 
+</section>
+
+<section>
 
 
 # Prompt Engineering for Equinor:
@@ -37,6 +45,10 @@ title: MD File 1
   - Medium level users: Those who need a little more. Such as helping with literature survey on specific topics, provide some analytics in some cases, troubleshoot an error with a code or providing templates for algorithms, improving or commenting drafted work, etc
   - Advance level users: Integrate tool functionality and customize it for an internal application within the company as an example. Useful when developing new products, obtain quick solutions to technical problems such as software bugs and errors, software optimization for multiple programming languages and Operating Systems. 
 
+</section>
+
+<section>
+  
 # ChatGPT for Beginners
 - Introduction to ChatGPT: Provide an overview of what ChatGPT is and how it can be used within the oil and gas industry.
 - Basic ChatGPT Usage: Teach the basics of how to use ChatGPT, including how to ask questions, how to interpret the responses, and how to refine the search results.
@@ -53,7 +65,10 @@ title: MD File 1
 - AI and Machine Learning: Teach how ChatGPT uses AI and machine learning algorithms to improve its performance and accuracy, and how to use these algorithms to develop custom solutions for the company.
 - Advanced Analytics and Predictive Modeling: Teach how to use ChatGPT for advanced analytics and predictive modeling, including how to develop custom models and algorithms for specific use cases.
 - Innovation and Research: Teach how to use ChatGPT for innovation and research within the company, such as exploring new technologies, identifying emerging trends, and developing new products and services.
+</section>
 
+<section>
+  
 # Multiple Applications
 
 <!--How companies are putting embedded genAI to good use | Computerworld -->
@@ -78,6 +93,9 @@ title: MD File 1
 - Testing and refining prompts is important to ensure the chatbot provides the desired responses.
 - Prompt engineering is crucial in creating chatbots that provide useful and relevant information to users within the company
 
+</section>
+
+<section>
 
 # Benefits / Challenges 
 
@@ -93,6 +111,10 @@ summarize the patent described here: https://patents.google.com/patent/US1092819
 - Some of the potential risks of using ChatGPT include the risk of bias and the need for transparency in AI systems.
 - Accuracy wise, take it with a grain of salt ! Sometimes the information is not accurate or even false…
 - Need to emphasize the potential of ChatGPT to transform enterprise applications and create new opportunities for businesses, but we also need responsible AI development and deployment.
+
+</section>
+
+<section>
   
 # Snippets from ChatGPT erroneous answer  
 - In this extracted chat session, we were asking about the company stock size /ownership and the tool returned some details on that, but it wasn’t quite clear …
@@ -104,7 +126,9 @@ summarize the patent described here: https://patents.google.com/patent/US1092819
 - And then it confess about its mistake before it corrects it.
 
 ![Alt text](image-2.png)
-<!-- ## Headings
+
+
+## Headings
 
 You can use headings to structure your content:
 
@@ -115,7 +139,9 @@ You can use headings to structure your content:
 ##### Heading 5
 ###### Heading 6
 
+</section>
 
+<section>
 
 ## Text Formatting
 
@@ -125,30 +151,6 @@ You can use various text formatting options in Markdown:
 - *Italic*
 - ~~Strikethrough~~
 
-## Lists
-
-You can create ordered and unordered lists in Markdown:
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-- First item
-- Second item
-- Third item
-
-### Nested List
-
-- First item
-  - First nested item
-  - Second nested item
-- Second item
-  - First nested item
-  - Second nested item
 
 ## Images
 
@@ -159,6 +161,10 @@ You can include images in Markdown using the following syntax:
 Here's an example image:
 
 ![Example Image](https://via.placeholder.com/150 "Example Image")
+
+</section>
+
+<section>
 
 ## Links
 
@@ -186,4 +192,6 @@ def greet(name):
 
 greet("Alice")
 
-no toc -->
+</section>
+
+<section>
